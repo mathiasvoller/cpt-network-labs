@@ -13,7 +13,7 @@ The purpose is to document my practical networking skills within:
 - Access Control Lists (ACL)
 - Network troubleshooting
 
-## 🧪 Labs
+## 🎓 Labs
 
 | Lab | Description |
 |-----|------------|
